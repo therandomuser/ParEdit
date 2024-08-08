@@ -250,7 +250,7 @@
 		},
 		{
 			"Name": "AnalysisPlugin",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "Synthesis",
@@ -571,6 +571,7 @@
 		}
 	],
 	"TargetPlatforms": [
-		"WindowsNoEditor"
+		"WindowsNoEditor",
+		"Android"
 	]
 }
